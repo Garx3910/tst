@@ -1,2 +1,2 @@
 # tst
-![hi] (./Images/Fig1.png)
+![hi](./Images/Fig1.png)
